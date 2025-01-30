@@ -1,0 +1,31 @@
+{
+  "name": "express-sample",
+  "version": "1.0.0",
+  "description": "Hello world app with express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "hello-world"
+  ],
+  "author": "Easypanel",
+  "license": "MIT",
+  "dependencies": {
+    "amqp": "^0.2.7",
+    "amqplib": "^0.10.4",
+    "axios": "^1.7.2",
+    "child_process": "^1.0.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "googleapis": "^140.0.0",
+    "node-fetch": "^2.7.0",
+    "path": "^0.12.7",
+    "pdf-lib": "^1.17.1",
+    "progress-stream": "^2.0.0",
+    "sharp": "^0.33.4"
+  }
+}
